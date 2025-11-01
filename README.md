@@ -81,6 +81,11 @@ Every query here began as a business question, evolved through prompt-aided desi
 
 ---
 
-> 🧩 All SQL queries were developed, validated, and tested in MySQL 8 using real-world datasets.  
+> All SQL queries were developed, validated, and tested in MySQL 8 using real-world datasets.  
 > AI tools (ChatGPT + GitHub Copilot) were used strictly for ideation and syntax refinement.
+
+
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ae06ae0e-00de-448e-ab6f-bba6b84f9215" />
+
 
