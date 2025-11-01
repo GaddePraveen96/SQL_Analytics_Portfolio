@@ -32,6 +32,14 @@ Built from a messy staging table (`stg_awards`), this script normalizes and enfo
 
 **AI-assist usage:** ChatGPT for schema optimization / constraint logic and Copilot for repetitive column syntax.
 
+
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ae06ae0e-00de-448e-ab6f-bba6b84f9215" />
+
+
+
+
+
 ---
 
 ## 2. Marketing Conversion Analytics  
@@ -86,6 +94,6 @@ Every query here began as a business question, evolved through prompt-aided desi
 
 
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ae06ae0e-00de-448e-ab6f-bba6b84f9215" />
+
 
 
