@@ -82,7 +82,7 @@ A complete analytics suite tracking **abstract submissions → registrations →
 ---
 
 ## Why This Project Matters
-AI tools don’t replace technical thinking — they amplify it.  
+AI tools don’t replace technical thinking they amplify it.  
 Every query here began as a business question, evolved through prompt-aided design, and ended as a **tested, explainable, decision-ready output**.
 
 ---
