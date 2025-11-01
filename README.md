@@ -1,6 +1,6 @@
 # SQL Analytics Portfolio
 
-This repository showcases my ability to design **data-driven SQL systems** and leverage **AI-assisted query generation** (ChatGPT + GitHub Copilot) to accelerate analysis — while still writing clean, verifiable, production-ready code.
+This repository showcases my ability to design **data-driven SQL systems** and leverage **AI-assisted query generation** (ChatGPT + GitHub Copilot) to accelerate analysis, while still writing clean, verifiable, production ready code.
 
 It contains two real-world MySQL 8+ projects focused on **data warehousing** and **marketing analytics / conversion intelligence**.
 
@@ -8,7 +8,7 @@ It contains two real-world MySQL 8+ projects focused on **data warehousing** and
 
 ## Repository Contents
 
-data-analytics-sql-ai-assisted/
+data-analytics sql and ai assisted/
 │
 ├── SQL Queries.sql # Dimensional model + ETL logic
 ├── SQL_Queries 2.sql # KPI, conversion, and revenue analysis
